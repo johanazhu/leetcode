@@ -20,11 +20,11 @@
 
 10题——肩颈按摩
 
-11题——某大佬的付费文章
+15题——某大佬的付费文章
 
-12题——某大佬的知识星球
+20题——某大佬的知识星球
 
-13以上是不可能做到的
+30以上是不可能做到的
 
 
 
@@ -32,9 +32,29 @@
 
 
 
+第一周：8题 :100:
+
+第二周：8题 :100:
+
+
+
 ## 日更题目（倒叙）
 
-【Day 8 】2021-05-17 - 24. 两两交换链表中的节点
+[【Day 15 】2021-05-24 - 129. 求根到叶子节点数字之和](https://github.com/johanazhu/leetcode/blob/master/%E3%80%90Day%2015%20%E3%80%912021-05-24%20-%20129.%20%E6%B1%82%E6%A0%B9%E5%88%B0%E5%8F%B6%E5%AD%90%E8%8A%82%E7%82%B9%E6%95%B0%E5%AD%97%E4%B9%8B%E5%92%8C.md)
+
+[【Day 14 】2021-05-23 - 100. 相同的树](https://github.com/johanazhu/leetcode/blob/master/%E3%80%90Day%2014%20%E3%80%912021-05-23%20-%20100.%20%E7%9B%B8%E5%90%8C%E7%9A%84%E6%A0%91.md)
+
+[【Day 13 】2021-05-22 - 104. 二叉树的最大深度](https://github.com/johanazhu/leetcode/blob/master/%E3%80%90Day%2013%20%E3%80%912021-05-22%20-%20104.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.md)
+
+[【Day 12 】2021-05-21 - 146. LRU 缓存机制](https://github.com/johanazhu/leetcode/blob/master/%E3%80%90Day%2012%20%E3%80%912021-05-21%20-%20146.%20LRU%20%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6.md)
+
+[【Day 11 】2021-05-20 - 142. 环形链表 II](https://github.com/johanazhu/leetcode/blob/master/%E3%80%90Day%2011%20%E3%80%912021-05-20%20-%20142.%20%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II.md)
+
+[【Day 10 】2021-05-19 - 160. 相交链表](https://github.com/johanazhu/leetcode/blob/master/%E3%80%90Day%2010%20%E3%80%912021-05-19%20-%20160.%20%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.md)
+
+[【Day 9 】2021-05-18 - 109. 有序链表转换二叉搜索树](https://github.com/johanazhu/leetcode/blob/master/%E3%80%90Day%209%20%E3%80%912021-05-18%20-%20109.%20%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8%E8%BD%AC%E6%8D%A2%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md)
+
+[【Day 8 】2021-05-17 - 24. 两两交换链表中的节点](https://github.com/johanazhu/leetcode/blob/master/%E3%80%90Day%208%20%E3%80%912021-05-17%20-%2024.%20%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.md)
 
 [【Day 7 】2021-05-16 - 61. 旋转链表](https://github.com/johanazhu/leetcode/blob/master/%E3%80%90Day%207%20%E3%80%912021-05-16%20-%2061.%20%E6%97%8B%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
 
@@ -55,4 +75,12 @@
 ## 高频考题（简单）
 
 [高频考题（简单）- 0001. 两数之和](https://github.com/johanazhu/leetcode/blob/master/%E9%AB%98%E9%A2%91%E8%80%83%E9%A2%98%EF%BC%88%E7%AE%80%E5%8D%95%EF%BC%89-%200001.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
+
+[高频考题（简单）- 0020. 有效的括号](https://github.com/johanazhu/leetcode/blob/master/%E9%AB%98%E9%A2%91%E8%80%83%E9%A2%98%EF%BC%88%E7%AE%80%E5%8D%95%EF%BC%89-%200020.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)
+
+
+
+## 排序专车
+
+[冒泡排序](https://github.com/johanazhu/leetcode/blob/master/%E6%8E%92%E5%BA%8F/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F.md)
 
