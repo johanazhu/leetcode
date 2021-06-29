@@ -178,6 +178,14 @@
 
 [【Day 30 】2021-06-08 - 278. 第一个错误的版本](https://github.com/johanazhu/leetcode/blob/master/%E4%BA%8C%E5%88%86%E6%B3%95/%E3%80%90Day%2030%20%E3%80%912021-06-08%20-%20278.%20%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%88%E6%9C%AC.md)
 
+[【Day 31 】2021-06-09 - 762.Number Stream to Intervals]
+
+【Day 32 】2021-06-10 - 796. Minimum Light Radius
+
+【Day 33 】2021-06-11 - 822. Kth-Pair-Distance
+
+【Day 34 】2021-06-12 - 778. 水位上升的泳池中游泳
+
 ### 滑动窗口
 
 [【Day 28 】2021-06-06 - 239. 滑动窗口最大值](https://github.com/johanazhu/leetcode/blob/master/%E5%A0%86/%E3%80%90Day%2028%20%E3%80%912021-06-06%20-%20239.%20%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC%20.md) 
@@ -186,15 +194,15 @@
 
 ### 搜索
 
-【Day 42 】2021-06-20 - 695. 岛屿的最大面积
+[【Day 42 】2021-06-20 - 695. 岛屿的最大面积](https://github.com/johanazhu/leetcode/blob/master/%E6%90%9C%E7%B4%A2/%E3%80%90Day%2042%20%E3%80%912021-06-20%20-%20695.%20%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%9C%80%E5%A4%A7%E9%9D%A2%E7%A7%AF.md)
 
-【Day 43 】2021-06-21 - 1162. 地图分析
+[【Day 43 】2021-06-21 - 1162. 地图分析](https://github.com/johanazhu/leetcode/blob/master/%E6%90%9C%E7%B4%A2/%E3%80%90Day%2043%20%E3%80%912021-06-21%20-%201162.%20%E5%9C%B0%E5%9B%BE%E5%88%86%E6%9E%90.md)
 
-【Day 44 】2021-06-22 - Shortest-Cycle-Containing-Target-Node
+[【Day 44 】2021-06-22 - Shortest-Cycle-Containing-Target-Node](https://github.com/johanazhu/leetcode/blob/master/%E6%90%9C%E7%B4%A2/%E3%80%90Day%2044%20%E3%80%912021-06-22%20-%20Shortest-Cycle-Containing-Target-Node.md)
 
-【Day 45 】2021-06-23 - Top-View-of-a-Tree
+[【Day 45 】2021-06-23 - Top-View-of-a-Tree](https://github.com/johanazhu/leetcode/blob/master/%E6%90%9C%E7%B4%A2/%E3%80%90Day%2045%20%E3%80%912021-06-23%20-%20Top-View-of-a-Tree.md)
 
-【Day 46 】2021-06-24 - 746.使用最小花费爬楼梯
+[【Day 46 】2021-06-24 - 746.使用最小花费爬楼梯](https://github.com/johanazhu/leetcode/blob/master/%E6%90%9C%E7%B4%A2/%E3%80%90Day%2046%20%E3%80%912021-06-24%20-%20746.%E4%BD%BF%E7%94%A8%E6%9C%80%E5%B0%8F%E8%8A%B1%E8%B4%B9%E7%88%AC%E6%A5%BC%E6%A2%AF.md)
 
 
 
