@@ -40,7 +40,8 @@
 
 | 期数 | 日期 | 完成程度（7道即可） | 奖励 |
 |---|:--|:--|:--|
-| 第九周 | 7.05-7.11 | 7道 | 无 |
+| 第十周 | 7.12—7.18 | 11道 | 无（复习） |
+| 第九周 | 7.05—7.11 | 7道 | 无 |
 | 第八周 | 6.28—7.04 | 7道 | 无 |
 | 第七周 | 6.21—6.27 | :100:11道 | 暂定 |
 | 第六周 | 6.14—6.20 | :100:10道 | 暂定 |
@@ -76,7 +77,18 @@
   - [回溯](#回溯)
   - [搜索](#搜索)
   - [动态规划](#动态规划)
+  - [背包](#背包)
+  - [贪心](#贪心)
+  - [分治](#分治)
+  - [位运算](#位运算)
 - [进阶篇](#进阶篇)
+  - [Trie](#Trie)
+  - [并查集](#并查集)
+  - [剪枝](#剪枝)
+  - [字符串匹配](#字符串匹配)
+  - [堆](#堆)
+  - [跳表](#跳表)
+  - [高频面试题](#高频面试题)
 
 
 
@@ -133,6 +145,8 @@
 [归并排序](./排序/归并排序.md)
 
 [快速排序](./排序/快速排序.md)
+
+
 
 ## 基础篇
 
@@ -266,15 +280,77 @@
 
 [【Day 51 】2021-06-29 - 688. “马”在棋盘上的概率](https://github.com/johanazhu/leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E3%80%90Day%2051%20%E3%80%912021-06-29%20-%20688.%20%E2%80%9C%E9%A9%AC%E2%80%9D%E5%9C%A8%E6%A3%8B%E7%9B%98%E4%B8%8A%E7%9A%84%E6%A6%82%E7%8E%87.md)
 
+[【Day 52 】2021-06-30 - 464. 我能赢么](https://github.com/johanazhu/leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E3%80%90Day%2052%20%E3%80%912021-06-30%20-%20464.%20%E6%88%91%E8%83%BD%E8%B5%A2%E4%B9%88.md)
+
+[代码模板](https://github.com/johanazhu/leetcode/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E4%BB%A3%E7%A0%81%E6%A8%A1%E6%9D%BF.md)
+
+
+
+### 背包
+
+[【Day 53 】2021-07-01 - 416. 分割等和子集](https://github.com/johanazhu/leetcode/blob/master/%E8%83%8C%E5%8C%85/%E3%80%90Day%2053%20%E3%80%912021-07-01%20-%20416.%20%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86.md)
+
+[【Day 54 】2021-07-02 - 494. 目标和 ](https://github.com/johanazhu/leetcode/blob/master/%E8%83%8C%E5%8C%85/%E3%80%90Day%2054%20%E3%80%912021-07-02%20-%20494.%20%E7%9B%AE%E6%A0%87%E5%92%8C%20.md)
+
+[【Day 55 】2021-07-03 - 322. 零钱兑换](https://github.com/johanazhu/leetcode/blob/master/%E8%83%8C%E5%8C%85/%E3%80%90Day%2055%20%E3%80%912021-07-03%20-%20322.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md)
+
+[【Day 56 】2021-07-04 - 518. 零钱兑换 II](https://github.com/johanazhu/leetcode/blob/master/%E8%83%8C%E5%8C%85/%E3%80%90Day%2056%20%E3%80%912021-07-04%20-%20518.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2%20II.md)
+
+[代码模板](https://github.com/johanazhu/leetcode/blob/master/%E8%83%8C%E5%8C%85/%E4%BB%A3%E7%A0%81%E6%A8%A1%E6%9D%BF.md)
+
+
+
+### 贪心
+
+[【Day 57 】2021-07-05 - 455. 分发饼干](https://github.com/johanazhu/leetcode/blob/master/%E8%B4%AA%E5%BF%83/%E3%80%90Day%2057%20%E3%80%912021-07-05%20-%20455.%20%E5%88%86%E5%8F%91%E9%A5%BC%E5%B9%B2.md)
+
+[【Day 58 】2021-07-06 - 435. 无重叠区间](https://github.com/johanazhu/leetcode/blob/master/%E8%B4%AA%E5%BF%83/%E3%80%90Day%2058%20%E3%80%912021-07-06%20-%20435.%20%E6%97%A0%E9%87%8D%E5%8F%A0%E5%8C%BA%E9%97%B4.md)
+
+[【Day 59 】2021-07-07 - 881. 救生艇](https://github.com/johanazhu/leetcode/blob/master/%E8%B4%AA%E5%BF%83/%E3%80%90Day%2059%20%E3%80%912021-07-07%20-%20881.%20%E6%95%91%E7%94%9F%E8%89%87.md)
+
+
+
+### 分治
+
+[【Day 60 】2021-07-08 - 96. 不同的二叉搜索树](https://github.com/johanazhu/leetcode/blob/master/%E5%88%86%E6%B2%BB/%E3%80%90Day%2060%20%E3%80%912021-07-08%20-%2096.%20%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md)
+
+[【Day 61 】2021-07-09 - 23. 合并 K 个排序链表](https://github.com/johanazhu/leetcode/blob/master/%E5%88%86%E6%B2%BB/%E3%80%90Day%2061%20%E3%80%912021-07-09%20-%2023.%20%E5%90%88%E5%B9%B6%20K%20%E4%B8%AA%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
+
+[【Day 62 】2021-07-10 - 932. 漂亮数组](https://github.com/johanazhu/leetcode/blob/master/%E5%88%86%E6%B2%BB/%E3%80%90Day%2062%20%E3%80%912021-07-10%20-%20932.%20%E6%BC%82%E4%BA%AE%E6%95%B0%E7%BB%84.md)
+
+
+
+### 位运算
+
+[【Day 63 】2021-07-11 - 260. 只出现一次的数字 III](https://github.com/johanazhu/leetcode/blob/master/%E4%BD%8D%E8%BF%90%E7%AE%97/%E3%80%90Day%2063%20%E3%80%912021-07-11%20-%20260.%20%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97%20III.md)
+
+[【Day 64 】2021-07-12 - 78. 子集](https://github.com/johanazhu/leetcode/blob/master/%E4%BD%8D%E8%BF%90%E7%AE%97/%E3%80%90Day%2064%20%E3%80%912021-07-12%20-%2078.%20%E5%AD%90%E9%9B%86.md)
+
 
 
 ## 进阶篇
 
-coding...
+说实话，进阶我已经是抄袭狂魔化身了，也是在这周开始，去看简单的题目来缓解什么题都不会做的失落感
 
 
 
+### Trie
 
+[【Day 65 】2021-07-13 - 208. 实现 Trie (前缀树）](https://github.com/johanazhu/leetcode/blob/master/%E8%BF%9B%E9%98%B6/Trie/%E3%80%90Day%2065%20%E3%80%912021-07-13%20-%20208.%20%E5%AE%9E%E7%8E%B0%20Trie%20(%E5%89%8D%E7%BC%80%E6%A0%91%EF%BC%89.md))
+
+[【Day 66 】2021-07-14 - 677. 键值映射](https://github.com/johanazhu/leetcode/blob/master/%E8%BF%9B%E9%98%B6/Trie/%E3%80%90Day%2066%20%E3%80%912021-07-14%20-%20677.%20%E9%94%AE%E5%80%BC%E6%98%A0%E5%B0%84.md)
+
+[【Day 67 】2021-07-15 - 面试题 17.17. 多次搜索](https://github.com/johanazhu/leetcode/blob/master/%E8%BF%9B%E9%98%B6/Trie/%E3%80%90Day%2067%20%E3%80%912021-07-15%20-%20%E9%9D%A2%E8%AF%95%E9%A2%98%2017.17.%20%E5%A4%9A%E6%AC%A1%E6%90%9C%E7%B4%A2.md)
+
+
+
+### 并查集
+
+[【Day 68 】2021-07-16 - 省份数量](https://github.com/johanazhu/leetcode/blob/master/%E8%BF%9B%E9%98%B6/%E5%B9%B6%E6%9F%A5%E9%9B%86/%E3%80%90Day%2068%20%E3%80%912021-07-16%20-%20%E7%9C%81%E4%BB%BD%E6%95%B0%E9%87%8F.md)
+
+[【Day 69 】2021-07-17 - 924. 尽量减少恶意软件的传播](https://github.com/johanazhu/leetcode/blob/master/%E8%BF%9B%E9%98%B6/%E5%B9%B6%E6%9F%A5%E9%9B%86/%E3%80%90Day%2069%20%E3%80%912021-07-17%20-%20924.%20%E5%B0%BD%E9%87%8F%E5%87%8F%E5%B0%91%E6%81%B6%E6%84%8F%E8%BD%AF%E4%BB%B6%E7%9A%84%E4%BC%A0%E6%92%AD.md)
+
+[【Day 70 】2021-07-18 - 1319. 连通网络的操作次数](https://github.com/johanazhu/leetcode/blob/master/%E8%BF%9B%E9%98%B6/%E5%B9%B6%E6%9F%A5%E9%9B%86/%E3%80%90Day%2070%20%E3%80%912021-07-18%20-%201319.%20%E8%BF%9E%E9%80%9A%E7%BD%91%E7%BB%9C%E7%9A%84%E6%93%8D%E4%BD%9C%E6%AC%A1%E6%95%B0.md)
 
 
 
